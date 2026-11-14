@@ -1,2 +1,2 @@
 Welcome to the Test Automation Project
-Version: 1.0
+Version: 2.0 (updated in feature-branch)
